@@ -1,7 +1,7 @@
 {
     "name": "Auto Filter Bot",
     "description": "Kind of a filter bot where you don't have to add filters manually.",
-    "logo": " https://telegra.ph/file/91abd97c25a97c4a63522.jpg",
+    "logo": " https://telegra.ph/file/9aa5222fe40a3d26bd034.jpg",
     "keywords": [
         "Auto",
         "Filter",
@@ -9,7 +9,7 @@
         "Sunaif adkar"
     ],
     "website": "https://sunaifadkar.me",
-    "repository": "https://github.com/sunaif-adkar/Auto-Filter-Bot.git",
+    "repository": "https://github.com/Binotenk/Auto-Filter-Bot-1",
     "success_url": "https://t.me/sunaif_adkar",
     "env": {
         "TG_BOT_TOKEN": {
